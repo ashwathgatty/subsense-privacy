@@ -11,7 +11,7 @@ SubSense ("we," "our," "us," or "the App") is an Android application that helps 
 
 This Privacy Policy explains what data SubSense collects, how that data is used, where it is stored, and what rights and controls you have over it. By installing and using SubSense, you agree to the practices described in this policy.
 
-SubSense is developed by Uma M.
+SubSense is developed by Akshan Technologies.
 
 ---
 
@@ -116,7 +116,7 @@ You have full control over your data in SubSense:
 
 ## 9. Children's Privacy
 
-SubSense is not directed at children. Under the India DPDP Act 2023, the age threshold for children is 18 years. We do not knowingly collect personal data from children under 18. If you believe that a child under 18 has provided data through the App, please contact us at umaxxua@gmail.com and we will take appropriate steps to delete such information.
+SubSense is not directed at children. Under the India DPDP Act 2023, the age threshold for children is 18 years. We do not knowingly collect personal data from children under 18. If you believe that a child under 18 has provided data through the App, please contact us at support@akshantech.com and we will take appropriate steps to delete such information.
 
 ---
 
@@ -130,7 +130,7 @@ SubSense is designed with the principles of the India Digital Personal Data Prot
 - **Right to access:** Users can view all their stored data within the App at any time.
 - **Right to correction:** Users can edit and update their subscription data directly within the App.
 - **Right to erasure:** Users can delete all personal data via **Settings > Clear All Data**, or by uninstalling the App.
-- **Data Fiduciary contact:** For any queries related to data protection or to exercise your rights under the DPDP Act, please contact the Data Fiduciary at **umaxxua@gmail.com**.
+- **Data Fiduciary contact:** For any queries related to data protection or to exercise your rights under the DPDP Act, please contact the Data Fiduciary at **support@akshantech.com**.
 
 ---
 
@@ -160,8 +160,8 @@ We encourage you to review this policy periodically.
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or SubSense's data practices, please contact us:
 
-- **Email:** umaxxua@gmail.com
-- **Google Play Store:** https://play.google.com/store/apps/developer?id=Uma+M
+- **Email:** support@akshantech.com
+- **Google Play Store:** https://play.google.com/store/apps/details?id=com.subsense.app
 
 ---
 
